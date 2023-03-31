@@ -1,0 +1,14 @@
+.image {
+    /* display:flex; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* margin: auto; */
+}
+
+img {
+    /* margin-top: auto;
+    margin-left: auto; */
+    /* width: 100%; */
+    max-width: 100%;
+    width: 100%;
+}
